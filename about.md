@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Chenyu Guo, Studying in NJU (2021.09-2025.06) with motivate to enhance personal programming skills and pursue further studies in the field of electronic information. A person who is determined to learn new knowledge.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello World!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Bladefish77@outlook.com](mailto:Bladefish77@outlook.com)
